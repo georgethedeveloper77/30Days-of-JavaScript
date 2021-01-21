@@ -27,7 +27,7 @@
     "react-dropzone": "^10.2.2",
     "react-redux": "^7.2.0",
     "saslprep": "^1.0.3",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   },
   "devDependencies": {
     "concurrently": "^5.1.0",
